@@ -64,11 +64,13 @@ Project repo: https://github.com/acc668/CS386_Group1
   is feeling, or it will be discussed in the next meeting.
 
 # Project Idea
-Now it is time to discuss project ideas and scope. After deliberating in the group, use the weekly report to describe what your product is going to be and the main proposed functionalities. 
+- Our proposed product is a scheduling web application designed to facilitate 
+  the reservation and use of Gaming PC’s in the Advanced Media Lab on campus.
 
-Some remarks about the project scope: I would like to remind you that the focus of our course is on software engineering techniques, so the project does not need to be technologically sophisticated (e.g., dealing with large volumes of data, adopting cutting-edge technology, etc.). You don’t want to spend most of your time trying to figure out how to accomplish the implementation itself or learning a new framework or programming language. Just manage the risks. The more important aspect of the project is that it must be valuable for someone. The most common choices for this course are mobile apps and web systems. I don’t want you to finish the course and say “hey, this is a proof of concept that shows that this technology works,” I prefer “hey, this is a prototype of a product that has value for someone and that is well-designed for future evolution.” Of course, it is very hard to come up with an idea for a helpful product out of the blue. Don’t worry, you can change your mind or pivot over the semester. We will have classes to discuss how to determine if your idea is worth pursuing. 
-
-Also begin thinking about what technologies will be used. You can change later on, but it is worth deciding about the initial infrastructure. Think about programming and scripting languages, database technologies, frameworks, libraries, protocols, GUI, running platforms, development environment, remote services, etc.
+- The main functionalities include:
+  * Identification of available PCs
+  * The ability to reserve a PC for up to 4 hours 
+    (more time may be permitted, if necessary)
 
 # Next Steps
 Now it is time to plan the next steps (who/what/when). We'll be discussing tools to manage your work in the coming weeks but start with a plan that describes who will work on what in the next week.
