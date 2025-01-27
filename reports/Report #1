@@ -72,6 +72,7 @@ Project repo: https://github.com/acc668/CS386_Group1
   * The ability to reserve a PC for up to 4 hours 
     (more time may be permitted, if necessary)
   * Identification of user reservation
+
   **Possibly get permission to identify NAU ID to reservations**
   **Possibly have it tie into Google Calendar Reminder**
 
@@ -82,7 +83,11 @@ Project repo: https://github.com/acc668/CS386_Group1
   * C++
   * GitHub
   * VSCode
+  * React.js
   * 
+
+  **Possibly Swift**
+  **Possibly Android Studio and XCode**
   **Possibly Duo for NAU ID Login**
 
 # Next Steps
