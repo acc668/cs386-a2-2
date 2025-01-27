@@ -94,6 +94,7 @@ Project repo: https://github.com/acc668/CS386_Group1
 # Next Steps
 - Ali:
   * Design wireframes and mockups for task creation
+  * Build the foundational structure of the web app using the chosen frontend framework (e.g., React, Vue, Angular)
 
 - Anthony:
   * Design wireframes and mockups for the structural database
@@ -102,7 +103,6 @@ Project repo: https://github.com/acc668/CS386_Group1
   * Create design systems with reusable components (buttons, modals, etc.)
   * Ensure the design is responsive and adheres to accessibility standards
 
-  * Build the foundational structure of the web app using the chosen frontend framework (e.g., React, Vue, Angular)
   * Implement the designed UI components (e.g., calendar interface, task forms)
   * Handle state management for frontend data (e.g., Redux, Vuex, or Context API)
 
@@ -121,6 +121,7 @@ Project repo: https://github.com/acc668/CS386_Group1
   * Identify and report bugs or UI inconsistencies
   * Ensure the application is responsive and cross-browser compatible
 
+
 - Clayton:
   * Design wireframes and mockups for login page
 
@@ -129,3 +130,4 @@ Project repo: https://github.com/acc668/CS386_Group1
 
 - Zack
   * Design wireframes and mockups for calendar view
+  * Build the foundational structure of the web app using the chosen frontend framework (e.g., React, Vue, Angular)
