@@ -93,10 +93,12 @@ Project repo: https://github.com/acc668/CS386_Group1
 
 # Next Steps
 - Ali:
+  * Design wireframes and mockups for task creation
 
 - Anthony:
+  * Design wireframes and mockups for the structural database
 
-  * Design wireframes and mockups for core features (e.g., login page, calendar view, task creation)
+
   * Create design systems with reusable components (buttons, modals, etc.)
   * Ensure the design is responsive and adheres to accessibility standards
 
@@ -120,10 +122,10 @@ Project repo: https://github.com/acc668/CS386_Group1
   * Ensure the application is responsive and cross-browser compatible
 
 - Clayton:
-
+  * Design wireframes and mockups for login page
 
 - Vince
-
+  * Design wireframes and mockups for reservation fetching
 
 - Zack
-
+  * Design wireframes and mockups for calendar view
