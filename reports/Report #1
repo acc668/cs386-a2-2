@@ -93,16 +93,37 @@ Project repo: https://github.com/acc668/CS386_Group1
 
 # Next Steps
 - Ali:
-  * 
 
 - Anthony:
-  * 
+
+  * Design wireframes and mockups for core features (e.g., login page, calendar view, task creation)
+  * Create design systems with reusable components (buttons, modals, etc.)
+  * Ensure the design is responsive and adheres to accessibility standards
+
+  * Build the foundational structure of the web app using the chosen frontend framework (e.g., React, Vue, Angular)
+  * Implement the designed UI components (e.g., calendar interface, task forms)
+  * Handle state management for frontend data (e.g., Redux, Vuex, or Context API)
+
+  * Set up the backend server (e.g., Node.js with Express, Django, or Flask)
+  * Design APIs for data interactions (e.g., CRUD operations for tasks and events)
+  * Implement authentication and user management (e.g., OAuth, JWT)
+  * Integrate a database (e.g., PostgreSQL, MongoDB)
+
+  * Set up the development environment (e.g., Docker for containerization)
+  * Configure CI/CD pipelines for automated builds, testing, and deployment
+  * Set up cloud hosting (e.g., AWS, Google Cloud, Vercel)
+  * Ensure scalable architecture for future growth
+
+  * Define test cases for core features
+  * Perform manual and automated testing (e.g., Selenium, Playwright)
+  * Identify and report bugs or UI inconsistencies
+  * Ensure the application is responsive and cross-browser compatible
 
 - Clayton:
-  * 
+
 
 - Vince
-  * 
+
 
 - Zack
-  * 
+
