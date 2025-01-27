@@ -103,6 +103,7 @@ Project repo: https://github.com/acc668/CS386_Group1
   * Define test cases for core features
   * Perform manual and automated testing (e.g., Selenium, Playwright)
 
+
   * Set up the backend server (e.g., Node.js with Express, Django, or Flask)
   * Design APIs for data interactions (e.g., CRUD operations for tasks and events)
   * Implement authentication and user management (e.g., OAuth, JWT)
@@ -114,12 +115,12 @@ Project repo: https://github.com/acc668/CS386_Group1
   * Ensure scalable architecture for future growth
 
   * Identify and report bugs or UI inconsistencies
-  * Ensure the application is responsive and cross-browser compatible
 
 
 - Clayton:
   * Design wireframes and mockups for login page
   * Ensure the design is responsive and adheres to accessibility standards
+  * Ensure the application is responsive and cross-browser compatible
 
 - Vince
   * Design wireframes and mockups for reservation fetching
