@@ -101,6 +101,7 @@ Project repo: https://github.com/acc668/CS386_Group1
 - Anthony:
   * Design wireframes and mockups for the structural database
   * Define test cases for core features
+  * Perform manual and automated testing (e.g., Selenium, Playwright)
 
   * Set up the backend server (e.g., Node.js with Express, Django, or Flask)
   * Design APIs for data interactions (e.g., CRUD operations for tasks and events)
@@ -112,7 +113,6 @@ Project repo: https://github.com/acc668/CS386_Group1
   * Set up cloud hosting (e.g., AWS, Google Cloud, Vercel)
   * Ensure scalable architecture for future growth
 
-  * Perform manual and automated testing (e.g., Selenium, Playwright)
   * Identify and report bugs or UI inconsistencies
   * Ensure the application is responsive and cross-browser compatible
 
