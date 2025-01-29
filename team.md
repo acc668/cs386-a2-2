@@ -8,4 +8,6 @@ of Legends team. I really like art and music. And I have a cat.
 ## Anthony Navarez
 ## Zackary Pond
 ## Clayton Ramsey
-## Vince Carillos
+## Vince Carillo
+My name is Vince Carrillo, a 20 year old sophomore studying Software Engineering. I enjoy playing video games, working out, and 
+learning new technologies. During my time at NAU, I've been working full-time as a Beverage Merchandiser in order to not be homeless. I also have a cat, his name's Salem! :D
