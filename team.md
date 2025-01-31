@@ -6,7 +6,7 @@ Major. I am President of NAU Esports, and a competitive player for a League
 of Legends team. I really like art and music. And I have a cat :3
 
 ## Anthony Navarez
-#### I love hiking, mountain biking, and really anything outdoors.
+I love hiking, mountain biking, and really anything outdoors.
 ## Zackary Pond
 ## Clayton Ramsey
 My name is Clayton Ramsey, and I am currently a Junior in my major of Computer Science MAjor.
