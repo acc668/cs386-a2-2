@@ -8,4 +8,6 @@ of Legends team. I really like art and music. And I have a cat :3
 ## Anthony Navarez
 ## Zackary Pond
 ## Clayton Ramsey
+My name is Clayton Ramsey, and I am currently a Junior in my major of Computer Science MAjor.
+I love to play videogames, especially more competitive ones, and I plan to use my coding and programming knowledge to become a videogame developer in the future!
 ## Vince Carillos
