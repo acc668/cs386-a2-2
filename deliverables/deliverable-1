@@ -1,0 +1,90 @@
+##Introduction
+  Our project is a web-based reservation system designed for students in the AML, 
+  enabling them to book specific PCs for competitive play, while still allowing 
+  casual players to use the space without disruption. This software ensures fair 
+  and efficient access to gaming resources by allowing competitive players to 
+  secure dedicated time slots, while notifying current users when a computer 
+  is reserved. Casual players can continue using available PCs without worrying 
+  about sudden disruptions or being forced to switch computers. 
+  By streamlining the reservation process and preventing conflicts, our solution 
+  supports both competitive and casual players, fostering an organized and inclusive gaming environment.
+
+##Initial Value Proposition & Customer Segment(s)
+  The Advanced Media Lab is a high-traffic on-campus computer lab. 
+  Our scheduling software, Q-up, is designed to reduce student frustration 
+  when the lab reaches full capacity. While not a necessity, Q-up enhances 
+  convenience for students seeking to use the AML. Our primary audience is AML 
+  attendees, but the software can also help encourage broader use by other students 
+  and faculty. What sets Q-up apart is its real-time updates, allowing users to monitor
+  PC availability and minimize scheduling conflicts.
+
+##Interviews Summary
+  1. Jeremy Anderson
+  - Participant(s): Alexandra Curry, Jeremy Anderson
+  - When: Thursday, January 30th
+  - Customer Segment: NAU ESports Advisor | NAU IT
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+  2. Graham Hagerty
+  - Participant(s): Alexandra Curry, Graham Hagerty
+  - When: Friday, January 31st
+  - Customer Segment: NAU ESports Advisor | NAU IT
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+  3. Tanner Bessey
+  - Participant(s): Alexandra Curry, Anthony Navarez, Clayton Ramsey, 
+    Vince Carillo, Zackary Pond, Tanner Bessey
+  - When: Friday, January 31st
+  - Customer Segment: Competitive ESports Player (CS2)
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+  4. Nova Grant
+  - Participant(s): Alexandra Curry, Anthony Navarez, Clayton Ramsey, 
+    Vince Carillo, Zackary Pond, Nova Grant
+  - When: Friday, January 31st
+  - Customer Segment: Competitive ESports Player (Valorant)
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Must have
+
+  5. Ryan Menaugh
+  - Participant(s): Clayton Ramsey, Ryan Menaugh
+  - When: Friday, January 31st
+  - Customer Segment: Competitive ESports Player (Rainbow Six Siege)
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+  6. Nicholas Greco
+  - Participant(s): Nicholas Greco, Clayton Ramsey
+  - When: Friday, January 31st
+  - Customer Segment: NAU ESports Production Officer | Competitive ESports Player (League of Legends)
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+  7. Matthew Hashim
+  - Participant(s): Clayton Ramsey, Matthew Hashim
+  - When: Friday, January 31st
+  - Customer Segment: NAU ESports Treasurer | Previous Competitive ESports Player (Overwatch)
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+  8. Vince Carillo
+  - Participant(s): Alexandra Curry, Anthony Navarez, Clayton Ramsey, 
+    Vince Carillo, Zackary Pond
+  - When: Friday, January 31st
+  - Customer Segment: Casual Gamer
+  - Key Insight(s): 
+  - Representative Quote(s): 
+  - Assessment: Nice to have
+
+##Final Value Proposition & Customer Segment(s)
+    
