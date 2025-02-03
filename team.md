@@ -8,6 +8,9 @@ of Legends team. I really like art and music. And I have a cat :3
 ## Anthony Navarez
 #### I love hiking, mountain biking, and really anything outdoors.
 ## Zackary Pond
+My name is Zack Pond. I am a frequent enjoyer of rock climbing and video games 
+with experience in game design, C, HTML, CSS with a subtle undertone in 
+coordination.
 ## Clayton Ramsey
 
 ## Vince Carillo
